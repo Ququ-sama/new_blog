@@ -1,0 +1,2 @@
+module NewBlogHelper
+end
